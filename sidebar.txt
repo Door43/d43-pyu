@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[pyu:home|Door43 (pyu)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-pyu|d43-pyu repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-pyu/archive/master.zip|d43-pyu.zip]]
+
+**Recent Changes**
+{{changes>ns = pyu}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/pyu|Ethnologue data]]
+
